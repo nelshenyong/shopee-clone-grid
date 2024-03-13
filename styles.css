@@ -52,6 +52,7 @@ header.top-header div.header-container nav .nav-right-text {
 header.top-header div.header-container nav .after::after {
   content: "|";
   margin-left: 14px;
+  text-decoration: normal;
 }
 
 header.top-header div.header-container nav .bold {
